@@ -12,14 +12,16 @@ redirect_from:
 Education
 ======
 * Ph.D in Geography, McGill University, Canada 2022 (expected)
+  * Supervisor: [Dr. Brian Robinson]("http://www.brianerobinson.com")
 * M.A. in Geography, Miami Univeristy, United States, 2016
+  * Supervisor: Dr. Stanley Toops
 * B.A. in Environmental Studies, Allegheny College, United States, 2011
 
 Research experience
 ======
 * Research Assistant 
   * Chinese Academy of Agriculture, Hohhot, China (summer 2021)
-  * Supervisor: Professor Li Ping
+  * Supervisor: Dr. Li Ping
   * Finished a analytical report on global forage and grass-fed livestock production policies and initiatives for Chinese Academy of Agriculture
  
 Awards
