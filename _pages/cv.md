@@ -15,11 +15,13 @@ Education
 * M.A. in Geography, Miami Univeristy, United States, 2016
 * B.A. in Environmental Studies, Allegheny College, United States, 2011
 
+
 Research experience
 ----
 * **Research Assistant** 
   * **Chinese Academy of Agriculture**, Hohhot, China (Supervisor: Dr. Li Ping, summer 2021)
   * Finished a analytical report on global forage and grass-fed livestock production policies and initiatives for Chinese Academy of Agriculture
+ 
  
 Awards
 ----
@@ -29,6 +31,7 @@ Awards
 * 2018  McGill Sustainability Systems Initiative Landscape Scholar (Sustainability Systems Initiative, McGill University) (2018-2020) $10000
 * 2017  Graduate Field Research Award (Institute for the Study of International Development, McGill University) $3265
 * 2015  Student Paper Competition, 2nd place (East Lake Division of American Association of Geographers in Kent, Ohio) 
+
 
 Work experience 
 ---- 
