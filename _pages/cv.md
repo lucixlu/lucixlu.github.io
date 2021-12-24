@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV"
+title: ""
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -11,20 +11,16 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* Ph.D in Geography, McGill University, Canada 2022 (expected)
+* M.A. in Geography, Miami Univeristy, United States, 2016
+* B.A. in Environmental Studies, Allegheny College, United States, 2011
 
-Work experience
+Research experience
 ======
 * Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
+  * Chinese Academy of Agriculture, Hohhot, China
   * Supervisor: Professor Git
-
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+  * Finished a full internal report on global forage and grass-fed livestock production policies and initiatives for Chinese Academy of Agriculture
+ 
   
  
