@@ -37,7 +37,7 @@ Work & Field experience
 --- 
 * Project Associate 
   * Society of Entrepreneurs & Ecology, Alxa Left Banner, Inner Mongolia, China (2011-2013)
-  * Worked with local dryland farming communities to shift water-intensive crops into higher-value and lower-water consumption crops, including Jerusalem artichoke and high-yielding millet (Project won Ford Company Conservation Grant 2012).  
+  * * Worked with local dryland farming communities to shift water-intensive crops into higher-value and lower-water consumption crops, including Jerusalem artichoke and high-yielding millet (Project won Ford Company Conservation Grant 2012).  
   * Conducted household surveys, organized community meetings to facilitate project progress, and monitored project progress in the field.  
   * Planned and coordinated workshops for dryland farmers and connected artichoke farmers with Fructooligosaccharide companies. 
 
