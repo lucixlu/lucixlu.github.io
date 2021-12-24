@@ -30,4 +30,3 @@ Awards
 * McGill Sustainability Systems Initiative Landscape Scholar (Sustainability Systems Initiative, McGill University) (2018-2020)
 * Graduate Field Research Award (Institute for the Study of International Development, McGill University)(2017) 
 * Student Paper Competition, 2nd place (East Lake Division of American Association of Geographers in Kent, Ohio) (2015) 
-
