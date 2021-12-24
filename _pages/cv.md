@@ -41,5 +41,9 @@ Work & Field experience
   * Conducted household surveys, organized community meetings to facilitate project progress, and monitored project progress in the field.  
   * Planned and coordinated workshops for dryland farmers and connected artichoke farmers with Fructooligosaccharide companies. 
 
+* Nevada Conservation Crop Restoration Crew Member
+  * Great Basin Institute, Reno, Nevada, United States (summer 2010)
+  * Joined Nevada Conservation Corps for a 3-months program on habitat restoration, invasive species control and trail building in the Ruby mountain area.                                                          
+
 
                                                                                                                    
