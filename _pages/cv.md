@@ -19,7 +19,7 @@ Research experience
 ======
 * Summer 2015: Research Assistant
   * Chinese Academy of Agriculture, Hohhot, China
-  * Supervisor: Professor Git
+  * Supervisor: Professor Li Ping
   * Finished a full internal report on global forage and grass-fed livestock production policies and initiatives for Chinese Academy of Agriculture
  
   
