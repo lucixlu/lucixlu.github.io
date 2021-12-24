@@ -18,7 +18,7 @@ Education
 Research experience
 ----
 * **Research Assistant** 
-  * **Chinese Academy of Agriculture**, Hohhot, China (Supervisor: Dr. Li Ping | summer 2021)
+  * **Chinese Academy of Agriculture**, Hohhot, China (Supervisor: Dr. Li Ping, summer 2021)
   * Finished a analytical report on global forage and grass-fed livestock production policies and initiatives for Chinese Academy of Agriculture
  
 Awards
@@ -44,5 +44,5 @@ Work experience
   * **Great Basin Institute**, Reno, Nevada, United States (summer 2010)
      * Joined Nevada Conservation Corps for a 3-months program on habitat restoration, invasive species control and trail building in the Ruby mountain area.                                                          
 
-        <img src="https://raw.githubusercontent.com/lucixlu/lucixlu.github.io/master/images/nevada1.jpeg" alt="Your image title" width="280"/><img src="https://raw.githubusercontent.com/lucixlu/lucixlu.github.io/master/images/nevada2.jpeg" alt="Your image title" width="180"/>
+        <img src="https://raw.githubusercontent.com/lucixlu/lucixlu.github.io/master/images/nevada1.jpeg" alt="Your image title" width="290"/><img src="https://raw.githubusercontent.com/lucixlu/lucixlu.github.io/master/images/nevada2.jpeg" alt="Your image title" width="180"/>
                                                                                                                                
