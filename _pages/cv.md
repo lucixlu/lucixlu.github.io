@@ -12,7 +12,7 @@ redirect_from:
 Education
 ---
 * Ph.D in Geography, McGill University, Canada 2022 (expected)
-  * Supervisor: Dr. Brian Robinson [(Environmental Governance & Livelihoods Lab)]("http://www.brianerobinson.com")
+  * Supervisor: Dr. Brian Robinson 
 * M.A. in Geography, Miami Univeristy, United States, 2016
   * Supervisor: Dr. Stanley Toops
 * B.A. in Environmental Studies, Allegheny College, United States, 2011
