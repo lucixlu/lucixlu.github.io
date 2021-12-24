@@ -47,5 +47,7 @@ Work experience
   * Great Basin Institute, Reno, Nevada, United States (summer 2010)
      * Joined Nevada Conservation Corps for a 3-months program on habitat restoration, invasive species control and trail building in the Ruby mountain area.                                                          
 
-
+        <img src="https://raw.githubusercontent.com/lucixlu/lucixlu.github.io/master/images/nevada1.jpeg" alt="Your image title" height="350"/><img src="https://raw.githubusercontent.com/lucixlu/lucixlu.github.io/master/images/nevada2.jpeg" alt="Your image title" height="350"/>
+        
+        
                                                                                                                    
