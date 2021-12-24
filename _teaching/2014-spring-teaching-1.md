@@ -1,23 +1,9 @@
 ---
-title: "Teaching experience 1"
-collection: teaching
-type: "Undergraduate course"
-permalink: /teaching/2014-spring-teaching-1
-venue: "University 1, Department"
-date: 2014-01-01
-location: "City, Country"
+layout: archive
+title: "Teaching"
+permalink: /teaching/
+author_profile: true
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
-asdfa
-
-Heading 1
-======
-asdfasdf
-
-
-Heading 2
-======
-
-Heading 3
-======
+<img src="GEE_poster.png"
+     style="float: left; margin-right: 10px;" />
