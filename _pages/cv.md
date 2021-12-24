@@ -36,7 +36,7 @@ Awards
 Work & Field experience 
 --- 
 * Project Associate 
-  * Society of Entrepreneurs & Ecology, Alxa Left Banner, Inner Mongolia, China 
+  * Society of Entrepreneurs & Ecology, Alxa Left Banner, Inner Mongolia, China (2011-2013)
   * Became a team member of Society of Entrepreneurs & Ecology, an Environmental NGO in Northern China focused on desertification control, underground water resource conservation, and sustainable agriculture.
   * Worked with local dryland farming communities to shift water-intensive crops into higher-value and lower-water consumption crops, including Jerusalem artichoke and high-yielding millet (Project won Ford Company Conservation Grant 2012).  
   * Conducted household surveys, organized community meetings to facilitate project progress, and monitored project progress in the field.  
