@@ -42,11 +42,12 @@ Work experience
      * Planned and coordinated workshops for dryland farmers and connected artichoke farmers with Fructooligosaccharide companies. 
 
        <img src="https://raw.githubusercontent.com/lucixlu/lucixlu.github.io/master/images/alxa1.jpeg" alt="Your image title" width="255"/><img src="https://raw.githubusercontent.com/lucixlu/lucixlu.github.io/master/images/alxa4.jpeg" alt="Your image title" width="255"/>
+       
        <img src="https://raw.githubusercontent.com/lucixlu/lucixlu.github.io/master/images/alxa2.jpeg" alt="Your image title" width="255"/><img src="https://raw.githubusercontent.com/lucixlu/lucixlu.github.io/master/images/alxa3.jpeg" alt="Your image title" width="255"/>
 
 * **AmeriCorps/Nevada Conservation Crop Crew Member**
   * **Great Basin Institute**, Reno, Nevada, United States (summer 2010)
      * Joined Nevada Conservation Corps for 3 months on habitat restoration, invasive species control and trail building in the Ruby mountain area.                                                          
 
-        <img src="https://raw.githubusercontent.com/lucixlu/lucixlu.github.io/master/images/nevada1.jpeg" alt="Your image title" width="295"/><img src="https://raw.githubusercontent.com/lucixlu/lucixlu.github.io/master/images/nevada2.jpeg" alt="Your image title" width="185"/>
+        <img src="https://raw.githubusercontent.com/lucixlu/lucixlu.github.io/master/images/nevada1.jpeg" alt="Your image title" width="295"/><img src="https://raw.githubusercontent.com/lucixlu/lucixlu.github.io/master/images/nevada2.jpeg" alt="Your image title" width="182"/>
                                                                                                                                
