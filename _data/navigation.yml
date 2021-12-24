@@ -7,11 +7,12 @@ main:
 
 
 
-  - title: "CV"
-    url: /cv/
     
   - title: "Research"
     url: /talks/    
+    
+  - title: "CV"
+    url: /cv/
 
   - title: "Publications"
     url: /publications/
