@@ -47,7 +47,7 @@ Work experience
 
 * **AmeriCorps/Nevada Conservation Crop Crew Member**
   * **Great Basin Institute**, Reno, Nevada, United States (summer 2010)
-     * Joined Nevada Conservation Corps for a 3-months project, working on habitat restoration, invasive species control and trail building in the Ruby mountain.                                                            
+     * Joined Nevada Conservation Corps and spent 3 months working on invasive species control and trail building in the Ruby mountains.                                                          
 
         <img src="https://raw.githubusercontent.com/lucixlu/lucixlu.github.io/master/images/nevada1.jpeg" alt="Your image title" width="450"/><img src="https://raw.githubusercontent.com/lucixlu/lucixlu.github.io/master/images/nevada2.jpeg" alt="Your image title" width="250"/>
                                                                                                                                
