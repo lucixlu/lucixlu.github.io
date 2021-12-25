@@ -37,7 +37,7 @@ Awards
 Work experience 
 ---- 
 * **Community Project Associate**
-  * **Society of Entrepreneurs & Ecology**, Alxa Left Banner, Inner Mongolia, China (2011-2013)
+  * **Society of Entrepreneurs & Ecology(阿拉善SEE生态协会)**, Alxa Left Banner, Inner Mongolia, China (2011-2013)
      * Worked with dryland farming communities near or inside the Gobi desert to shift from cultivating water-intensive crops to higher-value and lower-water consumption crops, including Jerusalem artichoke and high-yielding millet (Project won Ford Company Conservation Grant 2012).  
      * Conducted household surveys, organized community meetings to facilitate project progress, and monitored project progress in the field.  
      * Planned and coordinated workshops for dryland farmers and connected artichoke farmers with Fructooligosaccharide companies. 
