@@ -12,7 +12,7 @@ redirect_from:
 Education
 ----
 * Ph.D in Geography, McGill University, Canada, 2022 (expected)
-* M.A. in Geography, Miami Univeristy, United States, 2016
+* M.A. in Geography, Miami University, United States, 2016
 * B.A. in Environmental Studies, Allegheny College, United States, 2011
 
 
@@ -21,7 +21,7 @@ Research experience
 * **Research Assistant** 
   * **Chinese Academy of Agriculture**, Hohhot, China (summer 2021)
   * Supervisor: Dr. Li Ping
-  * Finished a analytical report on global forage and grass-fed livestock production policies and initiatives for Chinese Academy of Agriculture
+  * Finished an analytical report on global forage and grass-fed livestock production policies and initiatives for the Chinese Academy of Agriculture
  
  
 Awards
@@ -47,7 +47,7 @@ Work experience
 
 * **AmeriCorps/Nevada Conservation Crop Crew Member**
   * **Great Basin Institute**, Reno, Nevada, United States (summer 2010)
-     * Joined Nevada Conservation Corps for 3 months on habitat restoration, invasive species control and trail building in the Ruby mountain area.                                                          
+     * Joined Nevada Conservation Corps for a 3-months project, working on habitat restoration, invasive species control and trail building in the Ruby mountain.                                                            
 
         <img src="https://raw.githubusercontent.com/lucixlu/lucixlu.github.io/master/images/nevada1.jpeg" alt="Your image title" width="450"/><img src="https://raw.githubusercontent.com/lucixlu/lucixlu.github.io/master/images/nevada2.jpeg" alt="Your image title" width="250"/>
                                                                                                                                
