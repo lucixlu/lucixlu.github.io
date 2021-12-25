@@ -10,5 +10,4 @@ redirect_from:
 
 About me
 ------
-Hello! I am a PhD student working with [Dr. Brian Robinson]("http://www.brianerobinson.com") at the [Department of Geography]("https://www.mcgill.ca/geography/in") of McGill University. I am interested in land system science, geographic information science, and political ecology. My current research focuses on social-ecological modelling at the household level using earth observation and household survey data. My dissertation aim to better understand the complexities of rangeland socio-ecological systems, especially the dynamics among land tenure insecurity, herders’ livelihoods, and rainfall variability.
-
+Hello! I am a PhD student working with [Dr. Brian Robinson]("http://www.brianerobinson.com") at the [Department of Geography]("https://www.mcgill.ca/geography/in") of McGill University. I am interested in land system science, geographic information science, and political ecology. My current research focuses on social-ecological modelling at the household level. Using earth observation and household survey data, I seek to better understand the complexities of rangeland socio-ecological systems, especially the dynamics among land tenure insecurity, herders’ livelihoods, and rainfall variability.
