@@ -45,7 +45,7 @@ Work experience
        <img src="https://raw.githubusercontent.com/lucixlu/lucixlu.github.io/master/images/alxa1.jpeg" alt="Your image title" width="380"/><img src="https://raw.githubusercontent.com/lucixlu/lucixlu.github.io/master/images/alxa4.jpeg" alt="Your image title" width="380"/>  
        <img src="https://raw.githubusercontent.com/lucixlu/lucixlu.github.io/master/images/alxa2.jpeg" alt="Your image title" width="380"/><img src="https://raw.githubusercontent.com/lucixlu/lucixlu.github.io/master/images/alxa3.jpeg" alt="Your image title" width="380"/>
 
-* **AmeriCorps/Nevada Conservation Crop Crew Member**
+* **AmeriCorps/Nevada Conservation Corps Crew Member**
   * **Great Basin Institute**, Reno, Nevada, United States (summer 2010)
      * Joined Nevada Conservation Corps and spent 3 months working on invasive species control and trail building in the Ruby mountains.                                                          
 
