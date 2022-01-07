@@ -13,7 +13,7 @@ Education
 ----
 * Ph.D in Geography, McGill University, Canada, 2022 (expected)
 * M.A. in Geography, Miami University, United States, 2016
-* B.A. in Environmental Studies, Allegheny College, United States, 2011
+* B.A. in Environmental Studies, Allegheny College, United States, 2011 (Minor: Music)
 
 
 Research experience
@@ -26,7 +26,7 @@ Research experience
  
 Awards
 ----
-* 2021  Rathlyn GIS Fellowship (Department of Geography, McGill University) $8992
+* 2021  Rathlyn GIS Fellowship (Department of Geography, McGill University) $9142
 * 2019  CSCDS Seed Grants (Social & Cultural Data Science Center, McGill University) $1000
 * 2019  Rathlyn Fieldwork Award (Department of Geography, McGill University) $6871
 * 2018  McGill Sustainability Systems Initiative Landscape Scholar (Sustainability Systems Initiative, McGill University) (2018-2020) $10000
