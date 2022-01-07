@@ -13,7 +13,7 @@ Education
 ----
 * Ph.D in Geography, McGill University, Canada, 2022 (expected)
 * M.A. in Geography, Miami University, United States, 2016
-* B.A. in Environmental Studies, Allegheny College, United States, 2011 (Minor: Music)
+* B.A. in Environmental Studies, Allegheny College, United States, 2011 
 
 
 Research experience
