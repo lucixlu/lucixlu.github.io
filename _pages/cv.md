@@ -42,9 +42,9 @@ Work experience
                                                                                                                                
 Awards
 ----
-* 2021  Rathlyn GIS Fellowship (Department of Geography, McGill University) $9142
-* 2019  CSCDS Seed Grants (Social & Cultural Data Science Center, McGill University) $1000
-* 2019  Rathlyn Fieldwork Award (Department of Geography, McGill University) $6871
-* 2018  McGill Sustainability Systems Initiative Landscape Scholar (Sustainability Systems Initiative, McGill University) (2018-2020) $10000
-* 2017  Graduate Field Research Award (Institute for the Study of International Development, McGill University) $3265
+* 2021  Rathlyn GIS Fellowship (Department of Geography, McGill University) 
+* 2019  CSCDS Seed Grants (Social & Cultural Data Science Center, McGill University)
+* 2019  Rathlyn Fieldwork Award (Department of Geography, McGill University)
+* 2018  McGill Sustainability Systems Initiative Landscape Scholar (Sustainability Systems Initiative, McGill University) (2018-2020) 
+* 2017  Graduate Field Research Award (Institute for the Study of International Development, McGill University) 
 * 2015  Student Paper Competition, 2nd place (East Lake Division of American Association of Geographers in Kent, Ohio) 
