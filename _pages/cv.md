@@ -19,9 +19,9 @@ Education
 Research experience
 ----
 * **Research Assistant** 
-  * **Chinese Academy of Agriculture**, Hohhot, China (summer 2021)
+  * **Chinese Academy of Agricultural Sciences**, Hohhot, China (summer 2021)
   * Supervisor: Dr. Li Ping
-  * Finished an analytical report on global forage and grass-fed livestock production policies and initiatives for the Chinese Academy of Agriculture
+  * Finished an analytical report on global forage and grass-fed livestock production policies and initiatives for the Chinese Academy of Agricultural Sciences
 
 Work experience 
 ---- 
